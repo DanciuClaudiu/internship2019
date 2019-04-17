@@ -1,0 +1,21 @@
+{
+  "ErrorMessage": "No Error!",
+  "HolidayRightsPerYearList": [
+    {
+      "Key": 2019,
+      "Value": 20
+    },
+    {
+      "Key": 2020,
+      "Value": 13
+    },
+    {
+      "Key": 2022,
+      "Value": 11
+    },
+    {
+      "Key": 2023,
+      "Value": 22
+    }
+  ]
+}
